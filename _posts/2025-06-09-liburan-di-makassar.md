@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Mengenal Algoritma dan Permasalahan Komputasi Fundamental"
+title:  "Rangkuman Desain dan Anlisis Algoritma"
 date:   2025-06-09 15:00:00 +0800
 categories: [Algoritma, Struktur Data]
 tags: [DSA, Algoritma, Backtracking, Greedy, Graph, Dynamic Programming]
 ---
 
-Dalam dunia ilmu komputer, memahami berbagai algoritma dan masalah fundamental adalah kunci untuk menjadi seorang programmer yang handal. Kali ini, kita akan menjelajahi beberapa konsep penting yang sering muncul dalam wawancara teknis dan aplikasi dunia nyata.
+Rangkuman Materi kelompok 1 sampai 10 Desain dan Analisis Algoritma
 
 ---
 
